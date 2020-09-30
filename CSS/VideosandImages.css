@@ -1,0 +1,14 @@
+#navdireccionesV a{
+    padding: 0.5em;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 1.5em;
+    text-align: center;
+    color: whitesmoke;
+    width: 1.5;
+    
+}
+#navdireccionesV a:hover{
+    background-color: white;
+    color: gray;
+}
