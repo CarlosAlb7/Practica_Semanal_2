@@ -1,3 +1,7 @@
+body
+{
+    position: relative;
+}
 #navdireccionesI a{
     padding: 0.5em;
     display: inline-block;
@@ -11,4 +15,9 @@
 #navdireccionesI a:hover{
     background-color: white;
     color: gray;
+}
+
+.img1{
+    position: relative;
+    margin: 5em;
 }
