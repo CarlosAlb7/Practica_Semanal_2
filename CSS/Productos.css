@@ -1,4 +1,8 @@
-#navdireccionesV a{
+body
+{
+    position: relative;
+}
+#navdireccionesA a{
     padding: 0.5em;
     display: inline-block;
     text-decoration: none;
@@ -8,7 +12,19 @@
     width: 1.5;
     
 }
-#navdireccionesV a:hover{
+#navdireccionesI a:hover{
     background-color: white;
     color: gray;
+}
+
+.img1{
+    position: relative;
+    margin: 10px;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.txt1{
+    color: white;
+   
 }
